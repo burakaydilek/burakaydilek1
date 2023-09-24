@@ -5,4 +5,4 @@ Derslerde
 >- Dosya işlemleri öğrendik
 >- MESELA
 
-[https://github.com/burakaydilek/burakaydilek1/blob/main/02.h-pazar-2.py] 
+! [Markdown Logosu][https://github.com/burakaydilek/burakaydilek1/blob/main/02.h-pazar-2.py] 
